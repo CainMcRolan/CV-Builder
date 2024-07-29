@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { RiMailLine, RiPhoneLine, RiMapPinLine, RiExchangeLine } from "@remixicon/react";
+import Kuromi from "../../assets/images/Kuromi.jpg";
 
 export default function PersonalDetails({ personalDetails, setPersonalDetails }) {
   const [isEditing, setIsEditing] = useState(false);
@@ -38,7 +39,7 @@ export default function PersonalDetails({ personalDetails, setPersonalDetails })
             </p>
           </div>
           <div className="mr-8 flex">
-            <img src="src\assets\images\Kuromi.jpg" alt="" width={120} className="rounded-full" />
+            <img src={Kuromi} alt="" width={120} className="rounded-full" />
           </div>
         </div>
       ) : (
