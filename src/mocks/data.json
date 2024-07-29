@@ -1,0 +1,54 @@
+{
+  "personalDetails": {
+    "name": "Lebron Raymone James",
+    "email": "LebronJames@gmail.com",
+    "phone": "+6391234567897",
+    "location": "London, England"
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "SVJ Docs | Node.js, Socket.io, React",
+      "subTitle": "Real-Time Collaborative Document Editor",
+      "startDate": "May 2024",
+      "endDate": "July 2024",
+      "description": "Developed a real-time collaborative document editor allowing multiple users to edit documents simultaneously."
+    },
+    {
+      "id": "2",
+      "title": "SVJ Expensify | Django, React, Plaid API",
+      "subTitle": "Finance Manager",
+      "startDate": "March 2024",
+      "endDate": "April 2024",
+      "description": "Built a personal finance manager web application that connects with various bank APIs to fetch and categorize transactions."
+    },
+    {
+      "id": "3",
+      "title": "SVJ CMS | Next.js, React",
+      "subTitle": "Content Management System",
+      "startDate": "December 2023",
+      "endDate": "March 2024",
+      "description": "Created a niche content management system tailored for tech writers, featuring advanced editor tools and SEO optimization."
+    }
+  ],
+  "professionalExp": [
+    {
+      "id": "1",
+      "title": "Freelancer | BSU",
+      "subTitle": "Software Engineer, 3d Modeller",
+      "startDate": "April 2024",
+      "endDate": "present",
+      "description": "Developed and maintained numerous web applications using React, Node.js, Next.js, Vue.js, Laravel, and Django."
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "1",
+      "name": "React JS",
+      "proficiency": "Beginner",
+      "category": "JavaScript Library",
+      "yearsOfExperience": "4 Days",
+      "description": "Library used to Build FrontEnd Applications with Ease. It lets you build user interfaces out of individual pieces called components. Create your own React components like Thumbnail, LikeButton, and Video. Then combine them into entire screens, pages, and apps."
+    }
+  ]
+}
